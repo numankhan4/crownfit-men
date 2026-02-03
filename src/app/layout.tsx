@@ -7,20 +7,21 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "CrownFit Men | Premium Men's Grooming Services in Pakistan",
-  description: "Transform your look with CrownFit Men - Pakistan's premier men's grooming service. Professional haircuts, beard styling, skincare treatments, and more. Book your appointment today.",
-  keywords: ["men's grooming", "barbershop", "haircut", "beard styling", "skincare", "Pakistan", "Lahore", "Karachi"],
+  title: "CrownFit Men | Hair Patch & Hair System Solutions in Lahore",
+  description: "Premium non-surgical hair patch solutions in Lahore. Discreet home fitting, natural results, and professional maintenance. Book your confidential consultation today.",
+  keywords: ["hair patch", "hair system", "hair loss solution", "non-surgical hair", "home service", "Lahore", "Pakistan", "hair restoration", "hair replacement"],
   authors: [{ name: "CrownFit Men" }],
   openGraph: {
-    title: "CrownFit Men | Premium Men's Grooming Services",
-    description: "Transform your look with Pakistan's premier men's grooming service",
+    title: "CrownFit Men | Hair Patch Solutions in Lahore",
+    description: "Discreet, non-surgical hair patch solutions with home fitting and professional maintenance",
     type: "website",
     locale: "en_PK",
+    url: "https://crownfitmen.com",
   },
   twitter: {
     card: "summary_large_image",
-    title: "CrownFit Men | Premium Men's Grooming Services",
-    description: "Transform your look with Pakistan's premier men's grooming service",
+    title: "CrownFit Men | Hair Patch Solutions",
+    description: "Discreet, non-surgical hair patch solutions with home fitting",
   },
   robots: "index, follow",
 };

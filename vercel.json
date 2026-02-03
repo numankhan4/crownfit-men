@@ -3,11 +3,6 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "framework": "nextjs",
-  "env": {
-    "NEXT_PUBLIC_WHATSAPP_PHONE": "@whatsapp_phone",
-    "NEXT_PUBLIC_EMAIL": "@support_email",
-    "NEXT_PUBLIC_GOOGLE_FORM_URL": "@google_form_url"
-  },
   "regions": ["iad1"],
   "functions": {
     "api/**/*.ts": {
